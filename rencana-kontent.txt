@@ -1,5 +1,7 @@
 RENCANA KONTEN 
 
 -Javascript
+*Vue
+*React JS
 -PHP
 -Laravel
