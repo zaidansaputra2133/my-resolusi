@@ -1,8 +1,8 @@
 RENCANA KONTEN 
 
 -Javascript
+
 *Angular
 *React
 
--C
 -Laravel
